@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\src\Hollard.Provider\Provider.Hollard.csproj" />
+  </ItemGroup>
+</Project>
